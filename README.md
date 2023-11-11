@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaHoodratTaco
 - 👀 I’m interested in Game Programming and AI
-- 🌱 I’m currently learning Web Development and C++
+- 🌱 I’m currently learning Database Design and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Discord @DaHoodratTaco#3432
 -
